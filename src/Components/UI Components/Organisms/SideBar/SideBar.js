@@ -29,8 +29,9 @@ const SideBar = () => {
     <div className={`sideBar_parent ${sideBarShow}`}>
       <div className={`sidebar`} tabIndex="-1">
         <div className="user_info">
-          <Avatar borderColor="#fff" width="50" borderWidth="4px" />
-          <p className="user_name">@muhammadfaizahmed</p>
+        <img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/441550465_1007505204230131_2665013908217380100_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CitlZqtcg3YQ7kNvgFURBZt&_nc_ht=scontent.fcgp17-1.fna&oh=00_AYBht10ZvhnASyDle2Axc_BWT2jCWLgyOF1U4UYlD0pJBQ&oe=66567F05" alt="avatar" width="50" height="50" style="border-radius: 50%; border-width: 4px; border-color: rgb(255, 255, 255); border-style: solid;">
+      </img>
+      <p class="user_name">@shabazmahamood</p>
         </div>
         <Navlinks />
         <div className="logoutButton">

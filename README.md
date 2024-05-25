@@ -6,7 +6,7 @@ An UI/UX or Frontend based Webapp for storing passwords on your local storage
 
 ## Developed with React JS  
 ## Sanpshots.
-![thumbnail](./public/Assets/Images/thumbnail.jpg)
+![thumbnail]()
 
 ## Technologies.
 
@@ -20,7 +20,7 @@ An UI/UX or Frontend based Webapp for storing passwords on your local storage
 Clone Github's Repo on your local machine.
 
 ```
- git clone https://github.com/sheikhfaiz546/PMS-WebApp.git PMS-WebApp 
+ git clone 
 ```
 Install all Packages & Dependencies
 ```

@@ -133,7 +133,7 @@ const AddPlatformTemplate = () => {
                     type="text"
                     id="email"
                     fullWidth
-                    placeHolder={"eg: faizahmed, faizahmed@example.com"}
+                    placeHolder={"eg: shabazmahamood,  shabazmahamood@example.com"}
                     onChangeHandler={(e) => {
                       setUserNameValue(e.target.value);
                     }}

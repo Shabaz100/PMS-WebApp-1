@@ -15,7 +15,7 @@ const AboutPageTemplate = () => {
           </div>
 
           <div className="aboutSection">
-            <h3>I&apos;m Muhammad Faiz Ahmed.</h3>
+            <h3>I&apos; Shabaz Mahamood.</h3>
             <div className="feildSection">
               <h4>Web Developer</h4>
               <p>
